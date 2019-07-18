@@ -3,8 +3,8 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/kvanadev1gmail/python_backend.git'
-PROJECT_BASE_PATH='/Users/apple/Developer/python/new_rises'
+PROJECT_GIT_URL='https://github.com/kvanadev1gmail/python_backend.git';
+PROJECT_BASE_PATH='/Users/apple/Developer/python/new_rises';
 
 echo "Installing dependencies..."
 apt-get update
